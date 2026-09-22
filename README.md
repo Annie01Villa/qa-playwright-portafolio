@@ -1,4 +1,5 @@
-javascript# QA Automation - SauceDemo E2E
+javascriptQA Automation Engineer | Playwright + API Testing | JavaScript | E2E | Portafolio con 8 tests automatizadosjavascript#
+QA Automation - SauceDemo E2E
 
 Proyecto de automatización E2E usando Playwright + JavaScript con Vibe Coding.
 
